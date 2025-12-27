@@ -1,0 +1,14 @@
+# Data and models
+data/
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# OS
+.DS_Store
